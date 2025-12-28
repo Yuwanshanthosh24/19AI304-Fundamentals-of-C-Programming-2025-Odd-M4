@@ -4,7 +4,7 @@
 ## 8. Implementation of passing parameters.
 # Ex.No:16
   Implement a C program to read a date in the format DD/MM/YYYY and determine whether the entered date is valid. The program should check the correctness of the day, month, and year, including leap year calculations for February.
-# Date : 04/11/2025
+# Date : 04/12/2025
 # Aim:
  To implement a C program that validates a user-entered date using a function without parameters and without return value, ensuring the correctness of day, month, year, and leap year conditions.
 # Algorithm:
@@ -123,7 +123,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-4- Module 4 - FoC
 # Ex.No:17
   Develop a C program to read two numbers from the user and determine the maximum and minimum values. Use user-defined functions with arguments and return values—one function to find the maximum (max()) and another to find the minimum (min()).
-# Date :04/11/2025 
+# Date :04/12/2025 
 # Aim:
  To develop a C program that uses functions with parameters and return values to compute and display the maximum and minimum of two user-entered numbers.
 # Algorithm:
@@ -221,7 +221,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-4- Module 4 - FoC
 # Ex.No:18
   Develop a C program to convert temperatures between Celsius and Fahrenheit: Convert Celsius to Fahrenheit using a function that returns the converted value. Convert Fahrenheit to Celsius using another function that returns the converted value. Display the results in the main() function.
-# Date : 04/11/2025
+# Date : 04/12/2025
 # Aim:
  To develop a C program that converts temperatures between Celsius and Fahrenheit using functions with return values.
 # Algorithm:
@@ -314,7 +314,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-4- Module 4 - FoC
 # Ex.No:19
   Build a C program to print the elements of a given 4×4 matrix in spiral order starting from the top-left element and moving clockwise,using a user-defined parameterized function without return spiralPrint().
-# Date : 04/11/2025
+# Date : 04/12/2025
 # Aim:
  To build a C program to display the elements of a 2D array in spiral form, traversing the outer elements first and then moving inward in a clockwise direction, using a user-defined parameterized function without return spiralPrint().
 # Algorithm:
@@ -425,7 +425,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-4- Module 4 - FoC
 # Ex.No:20
   Build a C program to convert a string such that the first and last characters, as well as the characters before and after each space, are converted to uppercase. Implement this using a user-defined parameterized function without return.
-# Date : 04/11/2025
+# Date : 04/12/2025
 # Aim:
 To build a C program to convert a string as described above, using a user-defined parameterized function without return convertFirstCLastC(char str[]).
 # Algorithm:
